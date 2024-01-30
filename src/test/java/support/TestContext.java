@@ -31,7 +31,7 @@ public class TestContext {
     }
 
     public static void initialize() {
-        initialize("chrome", "local", true, false);
+        initialize("chrome", "local", true, true);
     }
 
     public static void teardown() {
